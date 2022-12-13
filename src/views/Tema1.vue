@@ -17,7 +17,7 @@
                   figure
                     img(src='@/assets/curso/tema1/img4.png', style="width: 120px").m-auto 
                 .col
-                  p.mb-0 Según la Real Academia de la Lengua Española (RAE),  la palabra reología, en ingles rheology, proviene del griego Réos, arroyo o corriente de agua, y  logy,  de logía,  que significa estudio; de tal forma que se puede definir como  el estudio de los fluidos con el fin de medir, en el caso de los alimentos, la deformación y el flujo de las sustancias.  Para realizar estas mediciones, se utiliza un reómetro, el cual mide la viscosidad a diferentes niveles de esfuerzo. 
+                  p.mb-0 Según la Real Academia de la Lengua Española (RAE),  la palabra reología, en ingles <em>rheology</em>, proviene del griego <em>Réos</em>, arroyo o corriente de agua, y  <em>logy</em>,  de logía,  que significa estudio; de tal forma que se puede definir como  el estudio de los fluidos con el fin de medir, en el caso de los alimentos, la deformación y el flujo de las sustancias.  Para realizar estas mediciones, se utiliza un reómetro, el cual mide la viscosidad a diferentes niveles de esfuerzo. 
        
         .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-left")
           img(src="@/assets/curso/tema1/img3.png")
@@ -83,7 +83,7 @@
             .col-auto.up
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/tema1/img13.png', alt='')
             .col.up  
-              p(data-aos="fade-down").mb-0 El Codex alimentarius enmienda 2016 menciona que los principales tipos de chocolate son el negro o amargo, el blanco y el chocolate con leche; su diferencia radica en el porcentaje de cacao, porcentaje de material graso (manteca de cacao o grasas lácteas), azúcar y la presencia o no de sólidos de leche. Observe cómo actúa la reología en el comportamiento de estas materias primas y de otros componentes como los edulcorantes, la leche y la lecitina de soja: 
+              p(data-aos="fade-down").mb-0 El <em>Codex alimentarius</em>  enmienda 2016 menciona que los principales tipos de chocolate son el negro o amargo, el blanco y el chocolate con leche; su diferencia radica en el porcentaje de cacao, porcentaje de material graso (manteca de cacao o grasas lácteas), azúcar y la presencia o no de sólidos de leche. Observe cómo actúa la reología en el comportamiento de estas materias primas y de otros componentes como los edulcorantes, la leche y la lecitina de soja: 
       .row.justify-content-center.mb-3.mb-lg-5
         .col-lg-12(data-aos="zoom-in")
           .bg6.p-4
@@ -258,7 +258,8 @@
                 img.img-t.mx-auto(src='@/assets/curso/tema1/img33.png' alt='AvatarTop')
                 .tarjeta.color_03
                   .p-4.pt-5
-                    p Deben tener un cierre seguro que evite la entrada de contaminantes o que el producto tenga contacto con el exterior fácilmente antes del consumo.             
+                    p Deben tener un cierre seguro que evite la entrada de contaminantes o que el producto tenga contacto con el exterior fácilmente antes del consumo. 
+                    p El envase debe ser de primer uso y garantizar protección durante el transporte y almacenamiento.             
       .row.justify-content-center.align-items-center          
         .col-lg-12.imgs-flotantes7(data-aos="fade-left") 
           img.img-flotante7(src='@/assets/curso/tema1/img23.png', alt='Imagen decorativa') 
@@ -267,10 +268,11 @@
           .col-lg-12.imgs-flotantes9(data-aos="fade-left") 
             img.img-flotante9(src='@/assets/curso/tema1/img11.png', alt='Imagen decorativa') 
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-5.col-10.mb-lg-0.mb-4order-lg-1.order-2(data-aos="fade-left")
-          img(src="@/assets/curso/tema1/img7.png")  
-        .col-lg-7.order-lg-2.order-1(data-aos="fade-right")
+        
+        .col-lg-7.order-lg-1.order-2(data-aos="fade-right")
           p.mb-3 <b>La Resolución 005109 de 2005</b> del Ministerio de Protección Social establece que un alimento envasado es todo aquel que requiera un envoltorio, empaque o embalaje para ofrecerlo al consumidor final, y define <b>“envase” como el recipiente que contiene los alimentos para ser entregados como producto único</b>, el cual los cubre total o parcialmente, incluyendo la tapa, los embalajes y las envolturas. También establece que un envase puede contener varias unidades o tipos de alimentos preenvasados cuando se ofrece al consumidor. En el tema de empaques, se habla generalmente de cuatro tipos: 
+        .col-lg-5.col-10.mb-lg-0.mb-4.order-lg-2.order-1(data-aos="fade-left")
+          img(src="@/assets/curso/tema1/img47.png")  
       .row.justify-content-center.align-items-center
         .col-lg-10
           ImagenInfografica.color-acento-botones.mb-5
@@ -399,7 +401,7 @@
       .col-lg-5.col-10.mb-lg-0.mb-4order-lg-1.order-2(data-aos="fade-left")
         img(src="@/assets/curso/tema1/img44.png")  
       .col-lg-7.order-lg-2.order-1(data-aos="fade-right")
-        p.El empacado en los procesos industrializados se da por la adquisición de maquinaria de flujo continuo, que se encarga de distribuir, organizar y controlar los parámetros de calidad, como peso y forma, donde el operario solamente cumple el papel de revisar o cuidar que el proceso fluya correctamente.
+        p El empacado en los procesos industrializados se da por la adquisición de maquinaria de flujo continuo, que se encarga de distribuir, organizar y controlar los parámetros de calidad, como peso y forma, donde el operario solamente cumple el papel de revisar o cuidar que el proceso fluya correctamente.
         p Continuando con el sellado, es de recordar que es uno de los procesos que más cuidado requiere a nivel industrial, ya que la elaboración de bombonería es muy sensible al calor por la cantidad de materia grasa que contiene,  y esto genera el inconveniente de que, al acercar el producto demasiado a las temperaturas elevadas para cerrar los empaques, no se garantice la inocuidad y pueda generarse la pérdida de sus propiedades;  aunque también existen los sellados en frío, igualmente se pueden perder características del chocolate por ser sometido a este tipo de manipulación. 
     .bg8  
       .row.justify-content-center.align-items-center.mb-5

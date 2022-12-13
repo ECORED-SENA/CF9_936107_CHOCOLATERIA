@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Monitoreando el proceso de chocolatería
-        p.mb-4 #[b Objetivo] Afianzar conceptos sobre el monitoreo de los productos de chocolatería,  con el fin de identificar los procedimientos establecidos en la industria de la chocolatería en cuanto a la inspección y el reporte de defectos encontrados en los productos según normativa.
+        p.mb-4 Afianzar conceptos sobre el monitoreo de los productos de chocolatería,  con el fin de identificar los procedimientos establecidos en la industria de la chocolatería en cuanto a la inspección y el reporte de defectos encontrados en los productos según normativa.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

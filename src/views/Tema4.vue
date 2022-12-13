@@ -15,8 +15,8 @@
           p Administrativamente, el procedimiento operativo estándar permite organizar el personal necesario para realizar dicha actividad, insumos, equipos, tiempos, e incluso planes de contingencia frente a eventualidades. Su objetivo principal es mejorar la productividad, eficiencia y esperar tener siempre los mismos resultados deseados de un proceso, de ahí la importancia de la estandarización. 
           .row
             .col-12.p-4.bg3-1.mb-2
-              p POE: procedimiento operativo estándar (SOP_standard operating procedure)
-              p OP: procedimiento operativo (OP_operating procedure) 
+              p <b>POE: procedimiento operativo estándar <em>(SOP_standard operating procedure)</em></b>
+              p <b>OP: procedimiento operativo <em>(OP_operating procedure)</em> </b>
               figure
                 img.img-a1(src='@/assets/curso/tema4/img2.png', alt='Texto que describa la imagen')
     .bg5-1
@@ -72,7 +72,7 @@
             p.mb-0.text-white Se presenta la información resumida del proceso mediante un gráfico muy visual que, por medio de flechas, indica el paso a paso, recalca las actividades más relevantes, e incluso grafica un reproceso en caso de presentarse una contingencia.
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7(data-aos="fade-right")
-        p.mb-3 Cualquiera que sea el tipo de chocolate a elaborar, se deben considerar las buenas prácticas de manufactura y la normatividad sanitaria vigente, con el fin de ofrecer productos de calidad e inocuos al consumidor; sin embargo, en la chocolatería, además de seguir estos lineamientos, también se debe cumplir con un detallado paso a paso de los procesos para evitar defectos en los productos finales, los cuales pueden presentar riesgos para el consumidor o simplemente defectos en la presentación por errores en la producción, los más comunes son: 
+        p.mb-3 En el caso de la chocolatería, el procedimiento de elaboración de bombones comenzaría desde la selección del tipo de cobertura que se va a realizar (no se tendría en cuenta lo anterior a la recepción del cacao), acá se define si se elaborará a nivel artesanal o industrial, si serán barras de chocolate o bombones, pues de esta decisión se define si pasa a la etapa de relleno o sellado y la cantidad de cobertura necesaria para el molde y el tipo de envasado requerido. El siguiente gráfico muestra cómo sería el procedimiento:
       .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/tema4/img8.png")
 
@@ -130,7 +130,7 @@
       .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/tema4/img17.png") 
       .col-lg-7(data-aos="fade-right")
-        p.mb-3 Cualquiera que sea el tipo de chocolate a elaborar, se deben considerar las buenas prácticas de manufactura y la normatividad sanitaria vigente, con el fin de ofrecer productos de calidad e inocuos al consumidor; sin embargo, en la chocolatería, además de seguir estos lineamientos, también se debe cumplir con un detallado paso a paso de los procesos para evitar defectos en los productos finales, los cuales pueden presentar riesgos para el consumidor o simplemente defectos en la presentación por errores en la producción, los más comunes son: 
+        p.mb-3 Es importante recalcar que estos formatos deben realizarse según las necesidades específicas de cada actividad y cada empresa, pues allí queda la información que genera la trazabilidad de cambios y de los datos registrados; se pueden establecer tantos formatos como sea necesario  (por ejemplo, de personal, de seguridad, de limpieza, y de mantenimiento de equipos)  siempre y cuando siga siendo una herramienta que aporte control y agilidad en los procesos, sin caer en el error de generar tantos que se ocasione desgano del personal encargado de los registros, pudiendo consignar mal u omitiendo la información y convirtiéndolos en material desaprovechado y obsoleto. 
     Separador
     #t_4_1
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -141,7 +141,7 @@
           .col-auto.up
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/tema1/img13.png', alt='')
           .col.up  
-            p(data-aos="fade-down").mb-0 Los formatos se pueden realizar en cualquier software de hojas de cálculo, software especializado, e incluso registros manuales, pues lo más importante es que estos estén diseñados para llevar el control de la producción de cualquier empresa, con fines organizacionales, de presupuesto, controlar inventarios y hacer balances económicos, entre otros.  
+            p(data-aos="fade-down").mb-0 Los formatos se pueden realizar en cualquier <em>software</em> de hojas de cálculo, <em>software</em> especializado, e incluso registros manuales, pues lo más importante es que estos estén diseñados para llevar el control de la producción de cualquier empresa, con fines organizacionales, de presupuesto, controlar inventarios y hacer balances económicos, entre otros.  
     .row.justify-content-center.align-items-center.my-5           
       .col-lg-10(data-aos="flip-down")
         .tarjeta.color-primario.p-3
@@ -166,7 +166,7 @@
           p La mejor manera de diligenciar los registros es estandarizar el tipo de información a analizar posteriormente, sin perder tiempo; por ejemplo, en fecha, puede ser bajo la forma dd/mm/aaaa, en este caso, la fecha se pondría 11/10/2022;  en hora, puede ser 07:35:17 a.m. (00:00:00)  o formato de 24 horas.  Se debe dejar por escrito para que todos los que deban llenarlo lo hagan de la misma manera
         .col-lg-12.p-4.bg3.mb-2(data-aos="fade-right")
           p.mb-3 Una manera de agilizar y facilitar el registro de información por tiempo y espacio es el uso de las siglas; defina cuáles siglas usarán y que estas sean consistentes en todos los formatos, se debe dejar un recuadro con esa información para que no se presenten dudas al momento en que un empleador lo deba diligenciar. Por ejemplo:  
-          p #[b.bwn1 En el formato, debe existir una casilla para el tipo de cobertura:] Chocolate Negro, Chocolate, Blanco, Chocolate con Leche. 
+          p #[b.bwn1 En el formato, debe existir una casilla para el tipo de cobertura:] chocolate negro, chocolate blanco, chocolate con leche. 
       .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/tema2/img12.png")
     .row.justify-content-center.align-items-center.mb-5          
@@ -177,7 +177,7 @@
         .col-lg-12.imgs-flotantes5(data-aos="fade-left") 
           img.img-flotante5(data-aos="zoom-in")(src='@/assets/curso/tema1/img23.png', alt='Imagen decorativa') 
       .row.justify-content-center.align-items-center.mb-5 
-        p Esta información es muy larga y se podría abreviar de la siguiente manera
+        p Esta información es muy larga y se podría abreviar de la siguiente manera:
         .col-lg-5.col-10.mb-lg-3.mb-4order-lg-1.order-2(data-aos="fade-left")
           img(src="@/assets/curso/tema4/img4.png") 
         .col-lg-7.order-lg-2.order-1(data-aos="fade-right")

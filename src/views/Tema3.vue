@@ -29,7 +29,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 Ingrese al siguiente link para ampliar información acerca de la <b>Ley 1990 de 2019.</b>
+                  p.mb-0 Ingrese al siguiente <em>link</em> para ampliar información acerca de la <b>Ley 1990 de 2019.</b>
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.andi.com.co/Uploads/Ley-2019-N0001990_20190802.pdf" target="_blank")
                     span Enlace <i>web</i>
