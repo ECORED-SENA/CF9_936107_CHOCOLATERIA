@@ -187,8 +187,6 @@
       .row.justify-content-center.align-items-center          
         .col-lg-12.imgs-flotantes4-1(data-aos="fade-left") 
           img.img-flotante4-1(data-aos="zoom-in")(src='@/assets/curso/tema1/img11.png', alt='Imagen decorativa')  
-          
-        
     
     
 </template>
