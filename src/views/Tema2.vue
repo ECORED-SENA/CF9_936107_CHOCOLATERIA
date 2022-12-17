@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 2
       h1 Defectos en los productos de chocolatería
-    .bg2 
+    .bg2-1.mb-5 
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-7(data-aos="fade-right")
           p.mb-3 Cualquiera que sea el tipo de chocolate a elaborar, se deben considerar las buenas prácticas de manufactura y la normatividad sanitaria vigente, con el fin de ofrecer productos de calidad e inocuos al consumidor; sin embargo, en la chocolatería, además de seguir estos lineamientos, también se debe cumplir con un detallado paso a paso de los procesos para evitar defectos en los productos finales, los cuales pueden presentar riesgos para el consumidor o simplemente defectos en la presentación por errores en la producción, los más comunes son: 

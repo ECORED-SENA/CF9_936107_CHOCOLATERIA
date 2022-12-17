@@ -46,7 +46,7 @@
                 span 5
               | Proceder a diseñar el POE.
         .col-lg-5.col-10.mb-lg-3.mb-4order-lg-1.order-2(data-aos="fade-left")
-          img(src="@/assets/curso/tema4/img4.png") 
+          img(src="@/assets/curso/tema4/img3.png") 
     .row.justify-content-center.align-items-center          
       .col-lg-12.imgs-flotantes3-1(data-aos="fade-left") 
         img.img-flotante3-1(data-aos="zoom-in")(src='@/assets/curso/tema1/img12.png', alt='Imagen decorativa') 
@@ -168,7 +168,7 @@
           p.mb-3 Una manera de agilizar y facilitar el registro de información por tiempo y espacio es el uso de las siglas; defina cuáles siglas usarán y que estas sean consistentes en todos los formatos, se debe dejar un recuadro con esa información para que no se presenten dudas al momento en que un empleador lo deba diligenciar. Por ejemplo:  
           p #[b.bwn1 En el formato, debe existir una casilla para el tipo de cobertura:] chocolate negro, chocolate blanco, chocolate con leche. 
       .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src="@/assets/curso/tema2/img12.png")
+        img(src="@/assets/curso/tema4/img4.png")
     .row.justify-content-center.align-items-center.mb-5          
       .col-lg-12.imgs-flotantes6(data-aos="fade-left") 
         img.img-flotante6(data-aos="zoom-in")(src='@/assets/curso/tema1/img29.png', alt='Imagen decorativa')  
@@ -179,7 +179,7 @@
       .row.justify-content-center.align-items-center.mb-5 
         p Esta información es muy larga y se podría abreviar de la siguiente manera:
         .col-lg-5.col-10.mb-lg-3.mb-4order-lg-1.order-2(data-aos="fade-left")
-          img(src="@/assets/curso/tema4/img4.png") 
+          img(src="@/assets/curso/tema4/img18.png") 
         .col-lg-7.order-lg-2.order-1(data-aos="fade-right")
           p.mb-3 Recuerde que estos son ejemplos y que todos los formatos de toma de información y abreviaturas las decide el área encargada en la empresa, según las necesidades de cada proceso.  
           p La chocolatería, además de ser un arte, también corresponde a técnicas precisas, de ahí la importancia de tener claros los procesos a realizar, de estandarizarlos y registrarlos adecuadamente. Llevar a cabo estos pasos permitirá eliminar tantas variables como sea posible, para evitar que se generen errores o defectos en la elaboración, más cuando se habla de un producto alimenticio, delicado y con costos elevados, como el chocolate. 

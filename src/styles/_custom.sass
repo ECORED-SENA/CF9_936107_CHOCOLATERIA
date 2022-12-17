@@ -122,6 +122,21 @@
     background-repeat: no-repeat
     background-position: center top  
 
+.bg2-1
+  position: relative
+  .row, figure, p, h3, h4, .titulo-sexto.color-primario
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -48px
+    margin-top: -50px
+    width: calc( 46% + -456px )
+    height: 100%       
+    background-image: url('../assets/curso/temas/1.png')
+    background-size: 100% auto  
+    background-repeat: no-repeat
+    background-position: center top  
 
 .bg3      
   background-color: #FEE9B5
@@ -165,7 +180,8 @@
     background-size: 100% auto  
     background-repeat: no-repeat
     background-position: center top   
-  
+    @media (max-width: $bp-max-md)
+       height: 108% 
 .bg6
   background-color: #FFF
 
@@ -268,7 +284,7 @@
 
 .bgimg06
   background-image: url("../assets/curso/tema2/img3.png")
-  background-size: 96% 88% 
+  background-size: 97% 97% 
   background-repeat: no-repeat
   background-position: center
   border-radius: 10px
@@ -429,21 +445,14 @@
 
 .imagen-absolute1
   position: absolute
-  bottom: 0
+  bottom: -24px
   left: 0
   transform: translateX(28%) translateY(0%)
   @media (max-width: $bp-max-lg)
     position: inherit
     transform: none  
 
-.slyder-b
-  .horizontal-scroll__wrapper
-    .horizontal-scroll
-      .slyder__action
-        .slyder__btn
-          background-color: #FEDFC7
-          &:hover
-            background-color: #FD7F23
+
 
 .slyder-f__btn 
   i
@@ -452,7 +461,7 @@
     width: 50px
     height: 50px 
     border-radius: 50%
-    padding: 14px 17px
+    padding: 10px 13px
 
 
 .color_01

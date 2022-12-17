@@ -15,7 +15,7 @@
               .row.align-items-center
                 .col-lg-auto
                   figure
-                    img(src='@/assets/curso/tema1/img4.png', style="width: 120px").m-auto 
+                    img.mb-4(src='@/assets/curso/tema1/img4.png', style="width: 120px").m-auto 
                 .col
                   p.mb-0 Según la Real Academia de la Lengua Española (RAE),  la palabra reología, en ingles <em>rheology</em>, proviene del griego <em>Réos</em>, arroyo o corriente de agua, y  <em>logy</em>,  de logía,  que significa estudio; de tal forma que se puede definir como  el estudio de los fluidos con el fin de medir, en el caso de los alimentos, la deformación y el flujo de las sustancias.  Para realizar estas mediciones, se utiliza un reómetro, el cual mide la viscosidad a diferentes niveles de esfuerzo. 
        
@@ -64,7 +64,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-3
               .imagen-absolute1
-                img(data-aos="zoom-in")(src='@/assets/curso/tema1/img10.png', alt='')
+                img.img-t.m-auto(data-aos="zoom-in")(src='@/assets/curso/tema1/img10.png', alt='')
             .col-lg-9.my-3
               p(data-aos="fade-down") La importancia de la reología está presente en las etapas principales del procesamiento del cacao, como  #[b.bwn el conchado, atemperado, moldeado, en las fases de bombeo] (en los procesos industrializados), e igualmente en el producto final; de esta forma, se considera el conchado, atemperado, moldeado, en las fases de bombeo que, para chocolatería fina, el tamaño de partícula final no debe superar los 17 mm.  
     .row.justify-content-center.align-items-center          
@@ -112,7 +112,7 @@
         img(src="@/assets/curso/tema1/img21.svg")
     
     .bg7
-      .row.justify-content-center.align-items-center          
+      .row.justify-content-center.align-items-center         
         .col-lg-12.imgs-flotantes5(data-aos="fade-left") 
           img.img-flotante5(data-aos="zoom-in")(src='@/assets/curso/tema1/img23.png', alt='Imagen decorativa') 
       .row.justify-content-center.align-items-center.mb-5
@@ -185,10 +185,10 @@
               tr(style="background-color: #FFF;")
                 th Sales de sodio/potasio de ácidos grasos
                 td.text-center 16-18
-    .row.justify-content-center.align-items-center          
+    .row.justify-content-center.align-items-center.mb-5          
       .col-lg-12.imgs-flotantes4(data-aos="fade-left") 
         img.img-flotante4(data-aos="zoom-in")(src='@/assets/curso/tema1/img11.png', alt='Imagen decorativa')    
-    .row.align-items-center.mb-4(data-aos="fade-right")
+    .row.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-1.col-2.img01
         img.w-50(src="@/assets/curso/tema1/img8.png")
       .col
@@ -230,7 +230,7 @@
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 1.3 Materiales de empaque, características, tipos y funciones 
        
-    .row.justify-content-center.align-items-center.mb-5           
+    .row.justify-content-center.align-items-center         
       .col-lg-12
         .row.justify-content-center.align-items-center.bg12.p-3.mb-4         
           .col-auto.up
@@ -246,19 +246,19 @@
                 img.img44.mx-auto(src='@/assets/curso/tema1/img31.png' alt='AvatarTop')
                 .tarjeta.color_01
                   .p-4.pt-5
-                    p Los materiales con los que se elaboran los envases deben ser inocuos y resistentes, para evitar alteraciones en las características del producto.
+                    p.text-center Los materiales con los que se elaboran los envases deben ser inocuos y resistentes, para evitar alteraciones en las características del producto.
             .col-lg-4.col-md-6.mb-4.mb-lg-0(data-aos="fade-up")
               .tarjeta-avatar
                 img.img-t.mx-auto.m_top1(src='@/assets/curso/tema1/img32.png' alt='AvatarTop')
                 .tarjeta.color_02
                   .p-4.pt-5
-                    p.text-white La resistencia debe ser considerada desde el empaque hasta el consumidor final. 
+                    p.text-white.text-center La resistencia debe ser considerada desde el empaque hasta el consumidor final. 
             .col-lg-4.col-md-6.mb-4.mb-lg-0(data-aos="fade-up")
               .tarjeta-avatar
                 img.img-t.mx-auto(src='@/assets/curso/tema1/img33.png' alt='AvatarTop')
                 .tarjeta.color_03
                   .p-4.pt-5
-                    p Deben tener un cierre seguro que evite la entrada de contaminantes o que el producto tenga contacto con el exterior fácilmente antes del consumo. 
+                    p.text-center Deben tener un cierre seguro que evite la entrada de contaminantes o que el producto tenga contacto con el exterior fácilmente antes del consumo. 
                     p El envase debe ser de primer uso y garantizar protección durante el transporte y almacenamiento.             
       .row.justify-content-center.align-items-center          
         .col-lg-12.imgs-flotantes7(data-aos="fade-left") 
@@ -278,7 +278,7 @@
           ImagenInfografica.color-acento-botones.mb-5
             template(v-slot:imagen)
               figure
-                img(src='@/assets/curso/tema1/img34.svg', alt='Texto que describa la imagen')(data-aos="fade-right")
+                img(src='@/assets/curso/tema1/img34.png', alt='Texto que describa la imagen')(data-aos="fade-right")
             .tarjeta.color-cuarto.p-3(x="10.5%" y="88.6%" numero="+")
               p <b>Empaque  primario</b> 
               p.mb-0 Como su nombre lo indica, es aquel empaque que está en contacto directo con el alimento. Por ejemplo, la botella de vidrio de un vino. Su función es proporcionar un medio para entregar un  producto final al consumidor, garantizando su inocuidad, facilitando la manipulación y estandarizando la unidad de medida con el fin de facilitar la comercialización. 
@@ -369,7 +369,7 @@
           .col-lg-12
             p Con las barras de chocolate o chocolates, el proceso es más delicado y se debe cuidar de que no se generen traumas de contacto; artesanalmente, una persona cuidadosa lo puede hacer sin mayor inconveniente; bajo este modelo productivo, este tipo de barras se empacan en papeles de grado alimenticio, con apariencias orgánicas, dando la sensación de un producto  100 % artesanal y 100 % natural. El proceso artesanal de empacado puede ser el siguiente:
       .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src="@/assets/curso/tema1/img3.png")
+        img(src="@/assets/curso/tema1/img48.png")
     .bg_06.p-2.p-lg-4.mb-5
       .bg_07.p-4
         SlyderA(tipo="b")(data-aos="fade-right")
@@ -415,7 +415,7 @@
             .row.justify-content-center.align-items-center
               .col-lg-3
                 .imagen-absolute1
-                  img(data-aos="zoom-in")(src='@/assets/curso/tema1/img10.png', alt='')
+                  img.img-t.m-auto(data-aos="zoom-in")(src='@/assets/curso/tema1/img10.png', alt='')
               .col-lg-9.my-3
                 p.text-white(data-aos="fade-down") Una de las justificaciones de las nuevas tecnologías de sellado es la de #[b.bwn evitar doble empaque,] que, en algunos de estos casos, consta primero de un laminado en aluminio y luego otro empaque unitario que el consumidor ve inicialmente; de este modo, se omite la necesidad del pegamento en el empaque exterior, mejorando los costos de producción, utilizando la maquinaria necesaria solo para manipular las láminas de aluminio.
     .row.justify-content-center.align-items-center          
@@ -433,7 +433,7 @@ export default {
   data: () => ({
     datosSlyder: [
       {
-        titulo: '<span style="color:#12263F">Cacao</span>',
+        titulo: '<span.font-size:18px style="color:#12263F">Cacao</span>',
         texto:
           'El árbol de cacao produce un fruto con unas vainas grandes llamadas mazorcas, y en su interior están las almendras, en algunos casos, llamadas nueces; al cosechar estas y procesarlas, se llega al chocolate, a la manteca de cacao y al extracto seco de cacao.  La reología en esta fase cobra importancia, ya que de una adecuada cosecha, fermentación, secado y tostado se generan unos índices de humedad que influyen en el comportamiento del chocolate.',
         imagen: require('@/assets/curso/tema1/img14.png'),
