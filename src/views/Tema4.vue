@@ -15,8 +15,8 @@
           p Administrativamente, el procedimiento operativo estándar permite organizar el personal necesario para realizar dicha actividad, insumos, equipos, tiempos, e incluso planes de contingencia frente a eventualidades. Su objetivo principal es mejorar la productividad, eficiencia y esperar tener siempre los mismos resultados deseados de un proceso, de ahí la importancia de la estandarización. 
           .row
             .col-12.p-4.bg3-1.mb-2
-              p <b>POE: procedimiento operativo estándar <em>(SOP_standard operating procedure)</em></b>
-              p <b>OP: procedimiento operativo <em>(OP_operating procedure)</em> </b>
+              p <b>POE: Procedimiento Operativo Estándar <em>(SOP_Standard Operating Procedure)</em></b>
+              p <b>OP: Procedimiento Operativo <em>(OP_Operating Procedure)</em> </b>
               figure
                 img.img-a1(src='@/assets/curso/tema4/img2.png', alt='Texto que describa la imagen')
     .bg5-1
@@ -88,7 +88,7 @@
       .col-lg-12.imgs-flotantes6(data-aos="fade-left") 
         img.img-flotante6(data-aos="zoom-in")(src='@/assets/curso/tema1/img29.png', alt='Imagen decorativa')    
     .bg_01.p-4.mb-5
-      p.mb-5(data-aos="fade-right") Existen varios tipos de Una vez establecidos y estandarizados  todos los procedimientos, es más sencillo organizar tanto la producción como los registros, de la siguiente manera:
+      p.mb-5(data-aos="fade-right") Una vez establecidos y estandarizados  todos los procedimientos, es más sencillo organizar tanto la producción como los registros, de la siguiente manera:
 
       .row.justify-content-center.align-items-center(data-aos="fade-left")
         .col-lg-12.col-md-8
@@ -183,7 +183,7 @@
         .col-lg-7.order-lg-2.order-1(data-aos="fade-right")
           p.mb-3 Recuerde que estos son ejemplos y que todos los formatos de toma de información y abreviaturas las decide el área encargada en la empresa, según las necesidades de cada proceso.  
           p La chocolatería, además de ser un arte, también corresponde a técnicas precisas, de ahí la importancia de tener claros los procesos a realizar, de estandarizarlos y registrarlos adecuadamente. Llevar a cabo estos pasos permitirá eliminar tantas variables como sea posible, para evitar que se generen errores o defectos en la elaboración, más cuando se habla de un producto alimenticio, delicado y con costos elevados, como el chocolate. 
-          p Todos los procesos descritos anteriormente se pueden realizar de forma manual, semi industrial e industrial, eso depende de la capacidad económica, de comercialización y del nivel de producción al que se quiera llegar. Sin embargo, es muy importante capacitarse de manera permanente en todo lo relacionado con la industria de la chocolatería, pues cada día se presentan cambios e innovaciones a nivel de tecnología, maquinaria y procesos.
+          p Todos los procesos descritos anteriormente se pueden realizar de forma manual, semiindustrial e industrial, eso depende de la capacidad económica, de comercialización y del nivel de producción al que se quiera llegar. Sin embargo, es muy importante capacitarse de manera permanente en todo lo relacionado con la industria de la chocolatería, pues cada día se presentan cambios e innovaciones a nivel de tecnología, maquinaria y procesos.
       .row.justify-content-center.align-items-center          
         .col-lg-12.imgs-flotantes4-1(data-aos="fade-left") 
           img.img-flotante4-1(data-aos="zoom-in")(src='@/assets/curso/tema1/img11.png', alt='Imagen decorativa')  

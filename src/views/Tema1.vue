@@ -117,7 +117,7 @@
           img.img-flotante5(data-aos="zoom-in")(src='@/assets/curso/tema1/img23.png', alt='Imagen decorativa') 
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-6(data-aos="fade-right")
-          p.mb-3 En algunos de los emulsificantes autorizados para la industria alimentaria, su uso depende de los valores HLB y del tipo de ingredientes y emulsión a trabajar. En el caso del chocolate, la más usada es la lecitina y no debe superar el 0.5 %, o el 1 % si es lecitina sintética, del total de la formulación, para evitar sabores desagradables en el producto.   Otros emolientes comerciales son:  PGPR (polirricinoleato de poliglicerol ) y YN (fosfolípidos sintéticos). 
+          p.mb-3 En algunos de los emulsificantes autorizados para la industria alimentaria, su uso depende de los valores HLB y del tipo de ingredientes y emulsión a trabajar. En el caso del chocolate, la más usada es la lecitina y no debe superar el 0.5 %, o el 1 % si es lecitina sintética, del total de la formulación, para evitar sabores desagradables en el producto.   Otros emolientes comerciales son:  PGPR (polirricinoleato de poliglicerol) y YN (fosfolípidos sintéticos). 
           p La siguiente tabla contiene los emulsificantes más utilizados en la industria de la chocolatería, con su respectivos valores de HLB:
           .row.justify-content-center.mb-5
             .col-lg-10
@@ -259,7 +259,7 @@
                 .tarjeta.color_03
                   .p-4.pt-5
                     p.text-center Deben tener un cierre seguro que evite la entrada de contaminantes o que el producto tenga contacto con el exterior fácilmente antes del consumo. 
-                    p El envase debe ser de primer uso y garantizar protección durante el transporte y almacenamiento.             
+                    p.text-center El envase debe ser de primer uso y garantizar protección durante el transporte y almacenamiento.             
       .row.justify-content-center.align-items-center          
         .col-lg-12.imgs-flotantes7(data-aos="fade-left") 
           img.img-flotante7(src='@/assets/curso/tema1/img23.png', alt='Imagen decorativa') 
@@ -310,7 +310,7 @@
               p.mb-0 Ser una fuente de comunicación con el consumidor final.	
             li
               <i class="fas fa-cookie" style="color:#8D756C"></i>
-              p.mb-0 Atraer la atención de los consumidores
+              p.mb-0 Atraer la atención de los consumidores.
             li
               <i class="fas fa-cookie" style="color:#8D756C"></i>
               p.mb-0 Permitir y facilitar el almacenamiento y distribución. 
@@ -350,7 +350,7 @@
             .col-lg-3.mb-4.mb-lg-0
               img.img-t.m-auto(src='@/assets/curso/tema1/img38.png')
             .col-lg-9
-              p.text-white.m-0 #[span.txt-c1 El tipo de empaque:] productos como el chocolate de mesa no representan los mismos desafíos que la bombonería  fina. 
+              p.text-white.m-0 #[span.txt-c1 El tipo de empaque:] Según el material del empaque será el proceso de empacado.
       .col-lg-4
         .color_02.p-4
           .row.align-items-center
