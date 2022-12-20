@@ -11,7 +11,7 @@
         .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-left")
           img(src="@/assets/curso/tema4/img1.png")
         .col-lg-7(data-aos="fade-right")
-          p.mb-3 Un registro de producción es un procedimiento que contiene las instrucciones paso a paso para realizar un proceso de la producción, donde se describen las actividades relevantes dentro del mismo, estandarizándolo  y documentando  los debidos registros; dicha información, #[b.bwn el procde ser posible, debe estar al alcance, en todo momento, de todos los involucrados en el procedimiento,] de esa forma se minimiza el margen de error al presentarse una duda en cualquier paso del proceso. 
+          p.mb-3 Un registro de producción es un procedimiento que contiene las instrucciones paso a paso para realizar un proceso de la producción, donde se describen las actividades relevantes dentro del mismo, estandarizándolo  y documentando  los debidos registros; dicha información, #[b.bwn de ser posible, debe estar al alcance, en todo momento, de todos los involucrados en el procedimiento,] de esa forma se minimiza el margen de error al presentarse una duda en cualquier paso del proceso. 
           p Administrativamente, el procedimiento operativo estándar permite organizar el personal necesario para realizar dicha actividad, insumos, equipos, tiempos, e incluso planes de contingencia frente a eventualidades. Su objetivo principal es mejorar la productividad, eficiencia y esperar tener siempre los mismos resultados deseados de un proceso, de ahí la importancia de la estandarización. 
           .row
             .col-12.p-4.bg3-1.mb-2
@@ -153,7 +153,7 @@
                 .col.mb-3.mb-sm-0
                   p.mb-0 Descargue el siguiente pdf, que contiene ejemplos de formatos para el registro de producción, producto terminado, inventario de producto terminado y de devolución de producto terminado.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/anexo1.docx')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/anexo1.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-link  
     Separador
