@@ -153,8 +153,8 @@
                 .col.mb-3.mb-sm-0
                   p.mb-0 Descargue el siguiente pdf, que contiene ejemplos de formatos para el registro de producción, producto terminado, inventario de producto terminado y de devolución de producto terminado.
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://cdn-icons-png.flaticon.com/512/5136/5136976.png" target="_blank")
-                    span Enlace <i>web</i>
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/anexo1.docx')" target="_blank")
+                    span Descargar
                     i.fas.fa-link  
     Separador
     #t_4_2
